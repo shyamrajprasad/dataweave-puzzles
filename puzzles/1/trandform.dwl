@@ -6,7 +6,7 @@ var regions = {
     "CA": "LATAM",
     "CA": "EMEA",
     "XY": "APAC"
-}
+  }
 /* Expected output
 {
   "LATAM": [
