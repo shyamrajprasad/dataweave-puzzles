@@ -1,6 +1,6 @@
 %dw 2.0
 output application/json
-/* Increment the number type value by 10 
+/* Increment the number type value by 10, Expected output will be as below 
 [
   12,
   14,
