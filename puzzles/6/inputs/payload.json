@@ -1,0 +1,17 @@
+[
+  {
+    "position": "1",
+    "amount": "20",
+    "course": "dw"
+  },
+  {
+    "position": "3",
+    "amount": "30",
+    "course": "MCD"
+  },
+  {
+    "position": "6",
+    "amount": "50",
+    "course": "MCIA"
+  }
+]
