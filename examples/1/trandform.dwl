@@ -1,4 +1,26 @@
 %dw 2.0
+/*
+https://help.mulesoft.com/s/question/0D52T00006WaUMgSAN/join-two-payload
+"How can I perform a join operation between two data arrays,
+payload1
+and
+payload2
+, using the composite key composed of
+ENT_SIREN
+and
+ENT_NIC
+in
+payload1
+, and the key
+SIRET
+in
+payload2
+? I would like to obtain a result that includes the elements from
+payload1
+with the corresponding values from
+payload2
+based on this join operation."
+*/
 import * from dw::core::Arrays
 var payload1 = [
   {
