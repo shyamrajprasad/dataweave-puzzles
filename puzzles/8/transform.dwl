@@ -1,6 +1,6 @@
 %dw 2.0
 output application/json
-/* Merge the even and object indexes i.e company and address object 
+/* Combine consecutive objects from even and odd indices into a single object.
 Expected output
 [
   {
