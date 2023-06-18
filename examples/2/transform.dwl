@@ -1,5 +1,5 @@
 %dw 2.0
 output application/json
-var x = payload.input groupBy $
+var x = payload.Input groupBy $
 ---
-keysOf(x) map ($ ++ sizeOf(x[$]) )
+keysOf(x) map ($ ++ sizeOf(x[$]) ) joinBy ""
