@@ -1,6 +1,6 @@
 %dw 2.0
 output application/json
-/* Remove empty array from the payload
+/* Remove empty arrays and objects from the payload
 Expected output
 {
     "Type": "User",
