@@ -1,0 +1,33 @@
+{
+  "Type": "User",
+  "id": "12345",
+  "meta": {
+      "userInfo": [],
+      "lastUpdated": "2019-05-28T19:29:36"
+  },
+  "Relatioship": [{
+      "type": {
+          "coding": [{
+              "system": "xyz"
+          }]
+      },
+      "system": 99004
+  }],
+  "period": {
+      "start": "2010-10-12T00:00:00.000Z",
+      "end": "2010-10-12T00:00:00.000Z"
+  },
+  "Contacts": [],
+  "Manager": [{
+
+      "type": {
+          "coding": []
+      }
+  }],
+  "team": [
+      []
+  ],
+  "account": [
+      []
+  ]
+}
