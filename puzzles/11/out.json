@@ -1,0 +1,26 @@
+{
+    "name": "Shyam",
+    "id": "123",
+    "company": "DataWeave Fun",
+    "addresses": [
+      {
+        "address1": "1745 T Street Southeast",
+        "address2": "#203",
+        "city": "Washington",
+        "state": "DC",
+        "postalCode": "20020"
+      },
+      {
+        "address1": "6007 Applegate Lane",
+        "city": "Louisville",
+        "state": "KY"
+      },
+      {
+        "address1": "560 Penstock Drive",
+        "address2": "",
+        "city": "Grass Valley",
+        "state": "CA",
+        "postalCode": "95945"
+      }
+    ]
+  }
