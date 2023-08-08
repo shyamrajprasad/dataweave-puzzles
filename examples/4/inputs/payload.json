@@ -1,0 +1,32 @@
+{
+    "value": [
+      {
+        "id": "abcd",
+        "displayName": "displayName1",
+        "members": [
+          {
+            "type": "user",
+            "name": "name1"
+          },
+          {
+            "type": "user",
+            "name": "name2"
+          }
+        ]
+      },
+      {
+        "id": "efgh",
+        "displayName": "displayName2",
+        "members": [
+          {
+            "type": "user",
+            "name": "name3"
+          },
+          {
+            "type": "user",
+            "name": "name1"
+          }
+        ]
+      }
+    ]
+  }
