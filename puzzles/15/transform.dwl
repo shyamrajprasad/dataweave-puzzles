@@ -7,6 +7,6 @@ fun firstRepeatedChar(data) = data
 ---
 /* 
 Expected Output
-A
+a
 */
 firstRepeatedChar(payload)
