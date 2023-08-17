@@ -1,0 +1,58 @@
+[
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230529",
+      "ADM_TIME": "17:00",
+      "PAYLOAD_NUMBER": "597418",
+      "PAYLOAD_COMMENT": "HELLO"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230531",
+      "ADM_TIME": "17:00",
+      "PAYLOAD_NUMBER": "597418",
+      "PAYLOAD_COMMENT": "HELLO"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230602",
+      "ADM_TIME": "17:00",
+      "PAYLOAD_NUMBER": "597418",
+      "PAYLOAD_COMMENT": "HELLO"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230628",
+      "ADM_TIME": "08:00",
+      "PAYLOAD_NUMBER": "597500",
+      "PAYLOAD_COMMENT": "Comments"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230628",
+      "ADM_TIME": "17:00",
+      "PAYLOAD_NUMBER": "597500",
+      "PAYLOAD_COMMENT": "Comments"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230629",
+      "ADM_TIME": "12:00",
+      "PAYLOAD_NUMBER": "597500",
+      "PAYLOAD_COMMENT": "Comments"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230630",
+      "ADM_TIME": "17:00",
+      "PAYLOAD_NUMBER": "597500",
+      "PAYLOAD_COMMENT": "Comments"
+    },
+    {
+      "ID_TYPE": "4",
+      "DATE": "20230702",
+      "ADM_TIME": "12:00",
+      "PAYLOAD_NUMBER": "597500",
+      "PAYLOAD_COMMENT": "Comments"
+    }
+  ]
