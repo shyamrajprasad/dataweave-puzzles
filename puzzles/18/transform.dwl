@@ -7,28 +7,22 @@ Adjusting pagination offset based on input size and total count.
 /* 
 [
   {
-    "offset": 0,
-    "size": 100
+    "offset": 0
   },
   {
-    "offset": 100,
-    "size": 100
+    "offset": 100
   },
   {
-    "offset": 200,
-    "size": 100
+    "offset": 200
   },
   {
-    "offset": 300,
-    "size": 100
+    "offset": 300
   },
   {
-    "offset": 400,
-    "size": 100
+    "offset": 400
   },
   {
-    "offset": 500,
-    "size": 100
+    "offset": 500
   }
 ]
 */
