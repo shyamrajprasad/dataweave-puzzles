@@ -2,9 +2,6 @@
 output application/json
 /*
 Divide the elements of an array into smaller subarrays, each with a sum that is below 100.
-​*/
----
-/* 
 Expected output
 [
   [
@@ -25,5 +22,6 @@ Expected output
     45
   ]
 ]
-*/
+​*/
+---
 payload
