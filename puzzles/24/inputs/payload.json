@@ -1,0 +1,13 @@
+[
+  {
+    "Product Id": "ABC123",
+    "Name": "Wireless Headphones",
+    "Model": "Xtreme Bass",
+    "Color": "Black",
+    "Price": 79.99,
+    "Currency": "USD",
+    "Average Rating": 4.7,
+    "Category": "Electronics",
+    "Subcategory": "Audio"
+  }
+]
