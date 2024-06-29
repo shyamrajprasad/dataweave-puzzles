@@ -4,7 +4,7 @@ output application/json
 ==============================================
 Dataweave Puzzle #24 - by Upendra Thunuguntla
 ==============================================
-*** Prepare SQL Merge Query using Dataweave ***
+*** Generate Dynamic SQL Merge Query using Dataweave ***
 
 ==================
 Requirments : 
