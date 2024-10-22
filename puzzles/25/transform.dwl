@@ -5,7 +5,6 @@ output application/json
 Dataweave Puzzle #25 - by Upendra Thunuguntla
 ==============================================
 *** Transform and Increment Order IDs Using DataWeave ***
-
 ==================
 Requirments : 
 ==================
@@ -28,8 +27,6 @@ Expected Output :
     "OrderId": "001029386"
   }
 ]
-
-
 */
 ---
 payload
